@@ -1,0 +1,6 @@
+.chrome_test_profile/
+.chrome_wheel_profile/
+*.log
+__pycache__/
+.vscode/
+.idea/
